@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SamuelCarmona83/jest-test/issues"
   },
-  "homepage": "https://github.com/SamuelCarmona83/jest-test#readme"
+  "homepage": "https://github.com/SamuelCarmona83/jest-test#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
